@@ -1,0 +1,11 @@
+{
+  "name": "tp3_jsavance",
+  "version": "1.0.0",
+  "description": "Utilisation du paquet AXIOS pour récupérer des données depuis une API REST",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Najim",
+  "license": "ISC"
+}
